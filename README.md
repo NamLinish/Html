@@ -3,7 +3,6 @@
 <head>
     <title>Two Equal Sections</title>
 
-    <!-- Internal CSS -->
     <style>
         body {
             margin: 0;
